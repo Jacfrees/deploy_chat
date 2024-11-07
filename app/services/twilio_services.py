@@ -4,7 +4,7 @@ import requests
 from requests.auth import HTTPBasicAuth
 
 account_sid = 'ACc22482bf6b5e85130e94e1970550eea3'
-auth_token = '9984f6563cd0cf370cb09c84c6576699'
+auth_token = 'c2c00f6833ab5f4224ace9619178fbfa'
 
 
 def sendMessageTwilio(from_number, response):
